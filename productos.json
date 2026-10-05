@@ -1,0 +1,5 @@
+[
+    {"codigo":"P001","nombre":"Hamburguesa Especial","precio":4.50,"stock":20},
+    {"codigo":"P002","nombre":"Pizza Personal","precio":6.00,"stock":15},
+    {"codigo":"P003","nombre":"Jugo Natural","precio":2.00,"stock":30}
+]
